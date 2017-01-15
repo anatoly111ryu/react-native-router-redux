@@ -1,3 +1,7 @@
+# This project is currently UNMAINTED
+
+If anybody would like to help with PR's and get this project up to use with current RN, please drop us a note via an Issue.
+
 # react-native-router-redux
 
 Router component to be used in your React Native redux applications.  Packed with Nav and TabBar support.
