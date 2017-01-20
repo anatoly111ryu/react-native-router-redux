@@ -1,6 +1,6 @@
-# This project is currently UNMAINTED
+# This project is not currently being maintained
 
-If anybody would like to help with PR's and get this project up to use with current RN, please drop us a note via an Issue.
+If you would like to take over maintenance of this repository, please drop us a note via an Issue.
 
 # react-native-router-redux
 
